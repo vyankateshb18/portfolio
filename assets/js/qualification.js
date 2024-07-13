@@ -1,7 +1,7 @@
 const qualifications = [
     {
-        title: "Full Stack Web Development",
-        year: 2022,
+        title: "Valeo - Software Engineer Intern",
+        year: 2024,
         description: "Complete web development course which included HTML to JavaScript, React, Node/Expressjs, MongoDB etc.",
         institute: {
             name: "Programming Hero",
